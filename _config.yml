@@ -14,7 +14,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Ricardo Antunes
-email:
+email: me@riscadoa.com
 description: >- # this means to ignore newlines until "baseurl:"
   My personal development blog and portfolio.
 twitter_username: RiscadoA
@@ -66,9 +66,9 @@ author:
     - label: "Lisbon, Portugal"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/place/Lisbon"
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://riscadoa.com"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:me@riscadoa.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RiscadoA"
@@ -81,6 +81,9 @@ author:
 
 footer:
   links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope-square"
+      url: mailto:me@riscadoa.com
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/RiscadoA"
@@ -130,3 +133,8 @@ category_archive:
 tag_archive:
   type: liquid
   path: /tags/
+
+comments:
+  provider: "disqus"
+  disqus:
+    shortname: "riscadoa"
