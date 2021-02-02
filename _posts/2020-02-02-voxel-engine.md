@@ -2,7 +2,7 @@
 title: "Voxel Engine - Part 1 - Grids vs Octrees"
 date: 2020-02-01T10:36:30-00:00
 categories:
-  - game dev
+  - game-dev
 tags:
   - voxels
   - cpp
