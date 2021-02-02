@@ -3,6 +3,19 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+I'm Ricardo Antunes, currently a first year student of Computer Science and
+Engineering at Instituto Superior Técnico, Lisbon, Portugal. Programming has
+been an interest of mine for quite a lot time (~8 years), being one of my main
+hobbies. I love learning new stuff and there are few areas of knowledge that I
+have no interest in.
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+My main area of interest right now in software development is game development.
+I have been working on and off on some personal basic game engines for some
+years now, which have given me a lot of experience with OpenGL, C and C++.
+ 
+I also participate in some competitive programming contests, and I have been
+selected to represent Portugal in the International Olympiads of
+Informatics twice (2019 and 2020).
+
+I've also recently gained interest on Game Jams and I'm planning to continue to
+take part on many of them.
