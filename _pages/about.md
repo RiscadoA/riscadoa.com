@@ -5,9 +5,9 @@ title: "About"
 
 I'm Ricardo Antunes, currently a first year student of Computer Science and
 Engineering at Instituto Superior Técnico, Lisbon, Portugal. Programming has
-been an interest of mine for quite a lot time (~8 years), being one of my main
-hobbies. I love learning new stuff and there are few areas of knowledge that I
-have no interest in.
+been an interest of mine for quite a lot of time (~8 years), being one of my
+main hobbies. I love learning new stuff and there are few areas of knowledge
+that I have no interest in.
 
 My main area of interest right now in software development is game development.
 I have been working on and off on some personal basic game engines for some
