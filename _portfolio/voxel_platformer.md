@@ -1,6 +1,6 @@
 ---
 title: "RiscadoA's Voxel Platformer"
-excerpt: "3D pixel art exploration and typing shoot-em-up game."
+excerpt: "3D voxel platformer game."
 header:
   image: /assets/images/voxel-platformer.png
   teaser: /assets/images/voxel-platformer.png
