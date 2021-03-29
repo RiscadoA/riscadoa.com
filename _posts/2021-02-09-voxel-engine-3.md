@@ -1,6 +1,6 @@
 ---
 title: "Voxel Engine - Part 3 - Ambient Occlusion & Colors"
-date: 2020-02-09T10:51:00-00:00
+date: 2021-02-09T10:51:00-00:00
 categories:
   - game-dev
 tags:
