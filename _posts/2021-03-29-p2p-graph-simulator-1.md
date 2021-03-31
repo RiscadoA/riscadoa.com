@@ -1,12 +1,11 @@
 ---
-title: "OurChat - Part 1"
+title: "P2P Graph Simulator - Part 1"
 date: 2021-03-29T08:00:00-00:00
 categories:
   - web-dev
 tags:
   - js
   - p2p
-  - ourchat
 ---
 
 For some time I've been wanting to start a project related to web development
@@ -26,7 +25,7 @@ simulator. So, I started working on a P2P graph simulator. Right now the nodes
 have no behaviour other than simply connecting to the only node they now (which
 the user specifies).
 
-![P2P Graph Simulator](/assets/images/posts/2020-03-29/p2p-graph-simulator.png "P2P Graph Simulator")
+![P2P Graph Simulator](/assets/images/posts/2021-03-29/p2p-graph-simulator.png "P2P Graph Simulator")
 
 You can see the code in its
 [public repo](https://github.com/RiscadoA/p2p-graph-simulator) or try the

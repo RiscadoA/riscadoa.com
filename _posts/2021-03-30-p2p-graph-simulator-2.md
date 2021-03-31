@@ -1,12 +1,11 @@
 ---
-title: "OurChat - Part 2 - Simple P2P Simulation"
+title: "P2P Graph Simulator - Part 2 - Simple P2P"
 date: 2021-03-30T08:00:00-00:00
 categories:
   - web-dev
 tags:
   - js
   - p2p
-  - ourchat
 ---
 
 I've continued working on the P2P graph simulator and I have added directed
@@ -21,7 +20,7 @@ Failures are handled by periodically checking each existing connection. If
 a connection stops working for some reason, a node sends all its peers to
 its peers and they themselves check if there is a peer to be added back.
 
-![Simple P2P](/assets/images/posts/2020-03-30/simple-p2p.png "Simple P2P")
+![Simple P2P](/assets/images/posts/2021-03-30/simple-p2p.png "Simple P2P")
 
 You can see the code in its
 [public repo](https://github.com/RiscadoA/p2p-graph-simulator) or try the

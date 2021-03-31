@@ -47,9 +47,9 @@ about it [here](https://0fps.net/2012/06/30/meshing-in-a-minecraft-game/).
 
 This was the final result:
 
-![Solid mesh](/assets/images/posts/2020-02-02/mesh.png "Solid mesh")
+![Solid mesh](/assets/images/posts/2021-02-02/mesh.png "Solid mesh")
 
-![Wireframe mesh](/assets/images/posts/2020-02-02/mesh-grid.png "Wireframe mesh")
+![Wireframe mesh](/assets/images/posts/2021-02-02/mesh-grid.png "Wireframe mesh")
 
 # Octrees
 
@@ -61,7 +61,7 @@ voxels. This way, if you have a large empty area, it will use very little
 memory. The memory usage rises mainly not according to the size of the region
 with voxels, but according to the size of the voxel surface area.
 
-![Example octree](/assets/images/posts/2020-02-02/octree.png "Example octree")
+![Example octree](/assets/images/posts/2021-02-02/octree.png "Example octree")
 
 Instead of storing the voxels in a 3D matrix, in my octree implementation, the
 voxels are stored in a simple array. Each voxel stores an additional four bytes
@@ -82,7 +82,7 @@ recursion at a certain level, even if the voxel is subdivided.
 
 This was the final result of implementing this algorithm:
 
-![Wireframe mesh](/assets/images/posts/2020-02-02/mesh-octree.png "Wireframe mesh")
+![Wireframe mesh](/assets/images/posts/2021-02-02/mesh-octree.png "Wireframe mesh")
 
 As you can see, way more vertices are generated this way when comparing it with
 the greedy meshing algorithm used on voxel grids (8 times more in average). The

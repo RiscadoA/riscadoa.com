@@ -15,9 +15,9 @@ functions. Each node in the octree represents a 32x32x32 chunk of the map,
 represented by a voxel grid, which can be further divided into 8 smaller nodes
 when you get closer.
 
-![Result 1](/assets/images/posts/2020-02-05/result_1.png "Result 1")
+![Result 1](/assets/images/posts/2021-02-05/result_1.png "Result 1")
 
-![Result 2](/assets/images/posts/2020-02-05/result_2.png "Result 2")
+![Result 2](/assets/images/posts/2021-02-05/result_2.png "Result 2")
 
 This was the result of applying the technique mentioned above. The function
 below was used to generate the voxel data shown in the images:
