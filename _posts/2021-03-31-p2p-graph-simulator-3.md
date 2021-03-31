@@ -8,7 +8,7 @@ tags:
   - p2p
 ---
 
-I've added the Ring Network protocol described  in
+I've added the _Ring Network_ protocol described  in
 [this paper](https://ccl.northwestern.edu/2005/ShakerReevesP2P.pdf)[^1]
 to the P2P graph simulator. I've also set a limit on the number of
 neigbours purely because the ring becomes really hard to visualize when there
