@@ -66,6 +66,9 @@ author:
     - label: "Lisbon, Portugal"
       icon: "fas fa-fw fa-map-marker-alt"
       url: "https://www.google.com/maps/place/Lisbon"
+    - label: "GPG key"
+      icon: "fas fa-fw fa-lock"
+      url: "http://gpg.riscadoa.com"
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: mailto:me@riscadoa.com
