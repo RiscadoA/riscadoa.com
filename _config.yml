@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Ricardo Antunes"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "1st year Computer Science and Engineering student, long time hobbyist programmer"
+  bio    : "2nd year Computer Science and Engineering student, long time hobbyist programmer"
   links:
     - label: "Instituto Superior Técnico"
       icon: "fas fa-fw fa-university"

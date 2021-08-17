@@ -1,5 +1,5 @@
 ---
-title: "OpenCV - Google Summer of Code"
+title: "OpenCV - Google Summer of Code - Part 1"
 date: 2021-06-23T00:00:00-00:00
 categories:
   - other
