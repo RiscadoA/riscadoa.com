@@ -11,9 +11,9 @@ tags:
 This is the last week of Google Summer of Code and I've finished the work I had
 planned. My contribution to OpenCV was adding the 'viz3d' namespace to the
 highgui module. The functions defined in this namespace allow the visualization
-of 3D meshes, point clouds, lines, RGB-D textures, and primites such as
-spheres, boxes and planes. It uses the same window system as functions such as
-`imshow()` which makes the API familiar to old users. Here is the
+of 3D meshes, point clouds, lines, RGB-D images, and primitives such as
+spheres, boxes and planes. It uses the same window system functions such as
+`imshow()` use which makes the API familiar to old users. Here is the
 [link](https://summerofcode.withgoogle.com/projects/#6722744298766336)
 to my project.  My pull request can be found [here](https://github.com/opencv/opencv/pull/20371).
 
