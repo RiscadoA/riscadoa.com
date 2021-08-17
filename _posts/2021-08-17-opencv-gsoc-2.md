@@ -111,7 +111,7 @@ Points clouds can be shown using `showPoints` or `showRGBD`. The first function
 takes as argument a `cv::Mat` containing the point cloud. It must be 2D and
 have 6 columns, where each row represents a point. The first 3 rows contain
 the point's position and the last 3 the point's color. Here is a bee point
-show using `showPoints`:
+cloud shown using `showPoints`:
 
 ![Bee](/assets/images/posts/2021-06-17/bee.png "Bee")
 
