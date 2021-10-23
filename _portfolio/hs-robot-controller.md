@@ -12,10 +12,10 @@ sidebar:
 ---
 
 This project was developed in collaboration with other students at
-[HackerSchool](https://hackerschool.io). HackerSchool is non-profit academic
-association where you can find other people with similar interests to yours and
-develop projects in many areas. The goal of this project is to build a
-6-wheeled robot with a robotic arm from the ground up.
+[HackerSchool](https://www.linkedin.com/company/hackerschool). HackerSchool is
+a non-profit academic association where you can find other people with similar
+interests to yours and develop projects in many areas. The goal of this project
+is to build a 6-wheeled robot with a robotic arm from the ground up.
 
 My task was to write a controller for the robot we're developing. The
 controller runs on a Raspberry Pi, and its written in C++.

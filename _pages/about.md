@@ -3,19 +3,37 @@ permalink: /about/
 title: "About"
 ---
 
-I'm Ricardo Antunes, currently a second year student of Computer Science and
-Engineering at Instituto Superior Técnico, Lisbon, Portugal. Programming has
-been an interest of mine for quite a lot of time (~8 years), being one of my
-main hobbies. I love learning new stuff and there are few areas of knowledge
-that I have no interest in.
+I'm a second year student of Computer Science and Engineering at Instituto
+Superior Técnico, Lisbon, Portugal. Programming has been an interest of mine
+for a long time. Programming has been one of my main hobbies since I was 10
+years old. I love learning new stuff and there are few areas of knowledge that
+I have no interest in.
 
-My main area of interest right now in software development is game development.
-I have been working on and off on some personal basic game engines for some
-years now, which have given me a lot of experience with OpenGL, C and C++.
+The programming languages I have the most expertise in are C and C++, since
+they were the first I learned and the ones I used the most. I also have some
+experience in Rust, JavaScript, HTML and CSS, Python, Java, C# and Prolog.
+
+One of my main interests is and was game development, or more precisely, game
+engine development: I've worked on multiple personal game engine projects over
+the years, which has given me a lot of experience with OpenGL, DirectX and some
+Vulkan experience too.
+
+I'm a member of [HackerSchool](https://www.linkedin.com/company/hackerschool) and
+[Game Dev Técnico](https://www.linkedin.com/company/gamedevtecnico/). I'm also
+currently working as an intern full-stack developer at
+[IST](https://tecnico.ulisboa.pt).
+
+At HackerSchool I'm developing a robot with my team, and I've been assigned the
+task of designing and writing the
+[robot controller]({% post_url 2021-10-23-hs-robot-controller-1 %}).
+
+At Game Dev Técnico I'm designing and coding
+[CUBOS.](https://github.com/GameDevTecnico/cubos), a new game engine made from
+scratch in C++.
  
 I also participate in some competitive programming contests, and I have been
 selected to represent Portugal in the International Olympiads of
 Informatics twice (2019 and 2020).
 
-I've also recently gained interest on Game Jams and I'm planning to continue to
-take part on many of them.
+~~I use Arch btw~~ (not anymore). I'm using NixOS as my daily driver right now,
+you can see my config [here](https://github.com/RiscadoA/nixconfig).

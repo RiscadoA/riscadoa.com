@@ -9,11 +9,11 @@ tags:
 ---
 
 I've been working on a controller for a robot I'm developing with other
-students at [HackerSchool](https://hackerschool.io). HackerSchool is a
-non-profit academic association where you can find other people with similar
-interests to yours and develop projects in many areas. The goal of the project
-I'm working on is to build a 6-wheeled robot with a robotic arm from the ground
-up.
+students at [HackerSchool](https://www.linkedin.com/company/hackerschool).
+HackerSchool is a non-profit academic association where you can find other
+people with similar interests to yours and develop projects in many areas. The
+goal of the project I'm working on is to build a 6-wheeled robot with a robotic
+arm from the ground up.
 
 The robot can be controlled from an Android application. In the app you can
 change the mode of the robot to:
