@@ -1,5 +1,5 @@
 ---
-title: "HackerSchool Robot Controller"
+title: "HS Robot Controller"
 excerpt: "A controller written in C++ for the HS Robot."
 header:
   image: /assets/images/hs-robot-controller.png

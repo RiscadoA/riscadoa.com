@@ -1,5 +1,5 @@
 ---
-title: "HackerSchool Robot Controller - Part 1"
+title: "HS Robot Controller - Part 1"
 date: 2021-10-23T00:00:00-00:00
 categories:
   - other
