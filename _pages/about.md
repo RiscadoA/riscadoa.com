@@ -4,7 +4,7 @@ title: "About"
 ---
 
 I'm a second year student of Computer Science and Engineering at Instituto
-Superior Técnico, Lisbon, Portugal.Programming has been one of my main hobbies
+Superior Técnico, Lisbon, Portugal. Programming has been one of my main hobbies
 since I was 10 years old. I love learning new stuff and there are only few
 areas of knowledge that I have no interest in.
 
