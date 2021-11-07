@@ -6,6 +6,7 @@ categories:
 tags:
   - cpp
   - serialization
+  - cubos
 ---
 
 Lately I've been designing and writting a serialization system for the
