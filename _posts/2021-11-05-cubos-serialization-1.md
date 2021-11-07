@@ -133,7 +133,8 @@ s->endObject();
 
 # Whats next?
 
-In the next post I will write about how I implemented the serialization methods
-on serializable/deserializable types, and how context is passed to them. We
-still need to provide an actual Serializer/Deserializer implementation, since
-right now we have only still defined abstract classes.
+In the next [post]({% post_url 2021-11-07-cubos-serialization-2 %}) I will write
+about how I implemented the serialization methods on serializable/deserializable
+types, and how context is passed to them. We still need to provide an actual
+Serializer/Deserializer implementation, since right now we have only still
+defined abstract classes.
