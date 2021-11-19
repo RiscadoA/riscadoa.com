@@ -7,8 +7,6 @@ header:
 sidebar:
   - title: "Role"
     text: "Author"
-  - title: "Responsibilities"
-    text: "Everything"
 ---
 
 I was working on a P2P chat application and I was investigating multiple

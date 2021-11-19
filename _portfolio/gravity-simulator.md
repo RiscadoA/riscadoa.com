@@ -7,8 +7,6 @@ header:
 sidebar:
   - title: "Role"
     text: "Author"
-  - title: "Responsibilities"
-    text: "Everything"
 ---
 
 On a break between university terms, I decided to start a toy project in

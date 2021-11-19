@@ -7,8 +7,6 @@ header:
 sidebar:
   - title: "Role"
     text: "Author"
-  - title: "Responsibilities"
-    text: "Everything"
 ---
 
 I challenged myself to make a simple 3D voxel platformer in a week from
