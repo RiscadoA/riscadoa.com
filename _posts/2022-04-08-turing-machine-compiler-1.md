@@ -191,5 +191,5 @@ itself. I chose Rust to write it in, because I've been wanting to work on a
 Rust project for a while, and also because Rust enums and match expressions
 make it very pleasant to write compilers in.
 
-In the next post I'll talk the issues I faced and how I implemented the
+In the next [post]({% post_url 2022-04-25-turing-machine-compiler-2 %}) I'll talk the issues I faced and how I implemented the
 compiler.
