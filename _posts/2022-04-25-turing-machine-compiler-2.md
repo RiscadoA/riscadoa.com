@@ -168,10 +168,11 @@ t: ((tape -> tape))
 The faulty expression is `get (next t)`. `get` receives `&tape`, but `next`
 returns `tape`. With the borrow checker on, compiling this program will fail
 with the error:
-> Annotater error: Application of &tape function at line 1, column 9 received owned tape which violates ownership rules
+> annotator error: Application of &tape function at line 1, column 9 received owned tape which violates ownership rules
 
 ## Whats next?
 
 Now that we have a type-annotated AST and know that the program is sound, the
 next step is to simplify it as much as possible to make it easier to generate
-turing machines. I will write about this process in the next post.
+turing machines. I will write about this process in the next
+[post]({% post_url 2022-05-15-turing-machine-compiler-3 %}).
