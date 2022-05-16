@@ -174,4 +174,5 @@ order, and we get the final AAST.
 ## Whats next?
 
 With the AST simplified, the only remaining task is to write the turing machine
-generator. I will write about it in the next article.
+generator. I will write about it in the next
+[post]({% post_url 2022-05-16-turing-machine-compiler-4 %})..
