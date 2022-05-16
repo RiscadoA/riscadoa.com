@@ -11,7 +11,7 @@ This semester I have been studying Computer Theory, and I had the idea of
 writing a compiler which generates Turing Machines. I started by designing the
 language. At first I explored compiling from an imperative language similar to
 Rust or C, but then I realized that doing it in a functional language similar
-to Nix would be much easier (and cooler).
+to [Nix](https://nixos.org/) would be much easier (and cooler).
 
 # Language Design
 
