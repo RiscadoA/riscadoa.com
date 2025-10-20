@@ -15,10 +15,10 @@ This project was developed in collaboration with other students at
 [HackerSchool](https://www.linkedin.com/company/hackerschool). HackerSchool is
 a non-profit academic association where you can find other people with similar
 interests to yours and develop projects in many areas. The goal of this project
-is to build a 6-wheeled robot with a robotic arm from the ground up.
+was to build a 6-wheeled robot with a robotic arm from the ground up.
 
 My task was to write a controller for the robot we're developing. The
-controller runs on a Raspberry Pi, and its written in C++.
+controller ran on a Raspberry Pi, and was written in C++.
 
 You can see the source code in the controller's github
 [repository](https://github.com/HackerSchool/HS-Robot-Controller).

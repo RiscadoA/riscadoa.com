@@ -11,9 +11,8 @@ sidebar:
 
 I was working on a P2P chat application and I was investigating multiple
 protocols and trying to choose one that would fit my needs. I found it
-hard to visualize and thought that it would be nice to be able to see how the
-many protocols behaved in some kind of simulator. So, I started working on a
-P2P graph simulator. Right now it supports both simple P2P networks where every
+hard to visualize and thought that it would be nice to be able to see how each protocol behaved in some kind of simulation. So, I started working on a
+P2P graph simulator. It supports both simple P2P networks where every
 peer knows every other peer and _Ring Networks_.
 
 You can see the code in its
@@ -45,4 +44,4 @@ deletion nodes, you need to activate the line mode by clicking on its button.
 To choose the protocol you want to simulate, you just need to click the
 respective button (simple or ring). This resets the simulation. When the ring
 protocol is selected buttons numbered from 1 to 4 appear which allows us to set
-the neighbour limit.
+the neighbor limit.

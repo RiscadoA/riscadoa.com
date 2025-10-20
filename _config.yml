@@ -57,8 +57,8 @@ plugins:
 
 author:
   name   : "Ricardo Antunes"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "2nd year Computer Science and Engineering student, long time hobbyist programmer"
+  avatar : "/assets/images/bio-photo.png"
+  bio    : "Computer Science & Engineering graduate focused on distributed systems and cybersecurity, with a passion for programming languages and game development."
   links:
     - label: "Instituto Superior Técnico"
       icon: "fas fa-fw fa-university"
@@ -81,9 +81,6 @@ author:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ricardo-antunes-964962137"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/RiscadoA"
 
 footer:
   links:
@@ -99,9 +96,6 @@ footer:
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/ricardo-antunes-964962137"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter"
-      url: "https://twitter.com/RiscadoA"
 
 collections:
   portfolio:

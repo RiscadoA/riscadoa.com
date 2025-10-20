@@ -9,7 +9,7 @@ sidebar:
     text: "Author"
 ---
 
-Immediatelly after finishing my gravity simulator project, I decided to start
+Immediately after finishing my gravity simulator project, I decided to start
 another toy project in TypeScript, WebGL, HTML and CSS. I had already played
 around with genetic algorithms when I was younger, but it was a long time ago
 and I felt like revisiting that topic, so I started working on this project.
@@ -49,7 +49,7 @@ fast as possible.
 
 On this project I improved upon the design of my gravity simulator, and wrote a
 new renderer which works with command queues, and which allows interpolation
-between physics updates to be done. I implemented a fixed timestep update loop.
+between physics updates to be done. I implemented a fixed time-step update loop.
 
 I also improved upon the UI (at least in the implementation side of things) of
 my gravity simulator.
