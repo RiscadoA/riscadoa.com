@@ -10,13 +10,10 @@
           pkgs = import nixpkgs { inherit system; };  
         in {
           devShell = with pkgs; mkShell {
-            nativeBuildInputs = [
+            packages = [
               ruby.devEnv
               bundix
             ];
-            shellHook = ''
-              exec zsh
-            '';
           };
         }
     );
