@@ -1,6 +1,6 @@
 ---
 title: "CLASS Compiler"
-excerpt: "My master thesis, where we developed the first compilation scheme for a session-based linear language."
+excerpt: "Master's thesis, where I developed the first compilation scheme for a session-based linear language."
 header:
   image: /assets/images/class.png
   teaser: /assets/images/class.png
