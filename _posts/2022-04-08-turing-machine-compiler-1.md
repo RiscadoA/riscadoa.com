@@ -7,7 +7,7 @@ tags:
   - rust
 ---
 
-This semester I have been studying Computer Theory, and I had the idea of
+This semester I have been studying Theory of Computation, and I had the idea of
 writing a compiler which generates Turing Machines. I started by designing the
 language. At first I explored compiling from an imperative language similar to
 Rust or C, but then I realized that doing it in a functional language similar
