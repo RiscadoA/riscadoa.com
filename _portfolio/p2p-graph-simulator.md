@@ -5,6 +5,8 @@ header:
   image: /assets/images/p2p-graph-simulator.png
   teaser: /assets/images/p2p-graph-simulator.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Author"
 ---

@@ -5,6 +5,8 @@ header:
   image: /assets/images/hs-robot-controller.png
   teaser: /assets/images/hs-robot-controller.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Programmer"
   - title: "Responsibilities"

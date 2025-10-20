@@ -5,6 +5,8 @@ header:
   image: /assets/images/evolution-simulator.png
   teaser: /assets/images/evolution-simulator.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Author"
 ---

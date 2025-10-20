@@ -5,6 +5,8 @@ header:
   image: /assets/images/turing-machine-compiler.png
   teaser: /assets/images/turing-machine-compiler.png
 sidebar:
+  - title: "Date"
+    text: "2022"
   - title: "Role"
     text: "Author"
   - title: "Language"

@@ -5,6 +5,8 @@ header:
   image: /assets/images/cubos.png
   teaser: /assets/images/cubos.png
 sidebar:
+  - title: "Date"
+    text: "2021 - 2025"
   - title: "Role"
     text: "Project Leader"
 ---
@@ -13,4 +15,18 @@ sidebar:
 
 It is developed by a team at [GameDev Técnico](www.instagram.com/gamedevtecnico/), a student group at [Instituto Superior Técnico](tecnico.ulisboa.pt/) who make games. The goal of the project is to build a game engine from the ground up and have fun doing it.
 
-I was one of the founding members of **Cubos**, and was the team's leader for 4 years. During these 4 years, the project grew from a small bundle of tools to an actual game engine, with in-house rendering, physics, audio, and much more. As project leader, I managed a team of +15 students, helping set a course for the project and managing releases, enforcing good programming conventions and Git usage, frequently onboarding new members, and personally working and designing many of the engine's features and architecture.
+I was one of the founding members of **Cubos**, and was the team's leader for 4 years. During these 4 years, the project grew from a small bundle of tools to an actual game engine, with in-house rendering, physics, audio, and much more. As project leader, I managed a team of +15 students, helping set a course for the project and managing releases, enforcing good programming conventions and Git usage through code reviews, frequently onboarding new members, and personally working and designing many of the engine's features and architecture. It is very difficult to list everything I've worked on over the years, but here is a list of some of most memorable tasks and features I've implemented and designed:
+
+- An in-house *Entity Component System* (ECS), on which the whole engine is built on top of. I wrote an advanced query system supporting custom queries to be executed extremely efficient over matching entities, with possibly multiple entities, linked by relationships. To make this possible I had to develop special algorithms and data structures to ensure maximum query and update speed. Essentially, I built a database engine specially built for games which stores all data in RAM. 
+
+- A very flexible plugin system for the engine, on which all high-level engine features are implemented. For example, our renderer is shipped as a set of plugins, which can be entirely disabled and replaced by the developer's own plugins without affecting other modules.
+
+- An in-house easy-to-use C++ reflection system, used extensively across the entire code base. C++ types can be annotated with traits, which can then be used generically at runtime to implement various features, such as serialization, debug tooling, and scripting language integration.
+
+- Graphical, filesystem, windowing, and other abstraction layers to ensure support across a variety of platforms, including Windows, MacOS, Linux and Web (through WASM).
+
+- A completely modular extensible renderer architecture based on the **Cubos** plugin system, with support for multiple render targets, custom post-processing effects, and more. Many features were implemented by various team members, including shadow mapping, bloom, ambient occlusion, UI rendering, and more.
+
+- An easily extendible asset management system, compatible with the overall plugin architecture of the engine and with hot-reloading in mind.
+
+- Designing, implementing and maintaining the Cubos website, blog and documentation.

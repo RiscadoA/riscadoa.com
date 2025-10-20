@@ -5,6 +5,8 @@ header:
   image: /assets/images/class.png
   teaser: /assets/images/class.png
 sidebar:
+  - title: "Date"
+    text: "2025"
   - title: "Role"
     text: "Author"
 ---

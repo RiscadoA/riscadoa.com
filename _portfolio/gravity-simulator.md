@@ -5,6 +5,8 @@ header:
   image: /assets/images/gravity-simulator.png
   teaser: /assets/images/gravity-simulator.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Author"
 ---

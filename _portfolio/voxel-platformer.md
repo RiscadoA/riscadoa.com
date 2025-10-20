@@ -5,6 +5,8 @@ header:
   image: /assets/images/voxel-platformer.png
   teaser: /assets/images/voxel-platformer.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Author"
   - title: "Language"

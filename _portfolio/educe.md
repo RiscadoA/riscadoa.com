@@ -5,6 +5,8 @@ header:
   image: /assets/images/educe.png
   teaser: /assets/images/educe.png
 sidebar:
+  - title: "Date"
+    text: "2021"
   - title: "Role"
     text: "Programmer & 3D Modeler"
   - title: "Responsibilities"
