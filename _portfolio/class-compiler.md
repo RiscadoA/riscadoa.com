@@ -1,5 +1,5 @@
 ---
-title: "CLASS Compiler"
+title: "Efficient Compilation for the Linear Language CLASS"
 excerpt: "Master's thesis, where I developed the first compilation scheme for a session-based linear language."
 header:
   image: /assets/images/class.png
@@ -17,4 +17,4 @@ While the principles and meta-theory behind linear logic based session languages
 
 Moreover, the developed compiler covers all of CLASS linear logic primitives, including affine sessions and shared state. The performance of the compiled programs was compared with the original CLASS interpreter, the SAM interpreter, and with equivalent programs written in Haskell. The results showed that the compiled programs were orders of magnitude faster than the interpreted ones, and, in some cases, outperformed equivalent Haskell programs compiled with GHC. To the best of our knowledge this is the first work demonstrating the efficient compilation of linear session basic languages to machine code.
 
-The final version of the thesis still hasn't been officially published but you can read the current version [here]({{ "/assets/thesis.pdf" | relative_url }}). The source code of the compiler is hosted on a [GitHub repository](https://github.com/RiscadoA/class).
+The final version of the thesis can be read [here]({{ "/assets/thesis.pdf" | relative_url }}). The source code of the compiler is hosted on a [GitHub repository](https://github.com/RiscadoA/class).
