@@ -11,7 +11,7 @@ sidebar:
     text: "Project Leader"
 ---
 
-[Cubos](https://cubosengine.org/) aims to be a simple, but powerful game engine for PC, where everything is made out of voxels. It is [open source](https://github.com/GameDevTecnico/cubos) and free to use for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.
+[Cubos](https://cubos.riscadoa.com/) aims to be a simple, but powerful game engine for PC, where everything is made out of voxels. It is [open source](https://github.com/GameDevTecnico/cubos) and free to use for any purpose. Written in modern C++ (20) and with data-oriented design in mind, its goal is to be both performant and highly flexible.
 
 It is developed by a team at [GameDev Técnico](www.instagram.com/gamedevtecnico/), a student group at [Instituto Superior Técnico](tecnico.ulisboa.pt/) who make games. The goal of the project is to build a game engine from the ground up and have fun doing it.
 
